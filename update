@@ -2,7 +2,7 @@
   {
     "name": "آپدیت جدید رسید",
     "text": "برای دانلود از طریق دکمه زیر اقدام نمایید",
-    "update": true,
+    "update": false,
     "link": "https://myket.ir/app/fil.ruby",
     "mode": true
   }
