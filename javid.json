@@ -1,14 +1,12 @@
 [
   {
-    "image": "https://lena.iapp.ir/api/BannerMaker_24012024_133439.png",
-    "text": "تست اپ جاوید - توسعه دهنده هومن - و...",
-    "date": "1402/12/17",
+    "title": "جآوید",
+    "caption": "تست اپ جاوید - توسعه دهنده هومن - و...",
     "link": "https://drive.google.com/file/d/1-4F3ewLrXvnDF-3e2fYZoUp0YEK25DHO/view?usp=drivesdk"
   },
   {
-    "image": "https://lena.iapp.ir/api/BannerMaker_24012024_133439.png",
-    "text": "تست اپ جاوید - توسعه دهنده هومن - و...",
-    "date": "1402/12/17",
+    "title": "هومن",
+    "caption": "تست اپ جاوید - توسعه دهنده هومن - و...",
     "link": "https://drive.google.com/file/d/1-4F3ewLrXvnDF-3e2fYZoUp0YEK25DHO/view?usp=drivesdk"
   }
 ]
